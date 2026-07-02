@@ -191,6 +191,7 @@ Anthropic 官方发布的关于 Agent Skills 的核心指南，是理解技术�
 | [**expo/skills**](https://github.com/expo/skills) | ![GitHub Repo stars](https://badgen.net/github/stars/expo/skills) | Expo 官方 Skills 合集，面向 Expo / React Native 项目与 Expo Application Services 开发。 |
 | [**cloudflare/skills**](https://github.com/cloudflare/skills) | ![GitHub Repo stars](https://badgen.net/github/stars/cloudflare/skills) | Cloudflare 官方出品，教智能体在 Cloudflare 平台（Workers/KV/R2/D1 等）上构建应用的 Skills。 |
 | [**getsentry/skills**](https://github.com/getsentry/skills) | ![GitHub Repo stars](https://badgen.net/github/stars/getsentry/skills) | Sentry 团队日常开发所用的官方 Agent Skills 合集。 |
+| [**google-labs-code/stitch-skills**](https://github.com/google-labs-code/stitch-skills) | ![GitHub Repo stars](https://badgen.net/github/stars/google-labs-code/stitch-skills) | Google Labs 官方出品，配合 Stitch MCP server 使用的 Agent Skills 库，遵循 Agent Skills 开放标准，兼容 Antigravity / Gemini CLI / Claude Code / Cursor 等编码智能体。 |
 
 ---
 
@@ -360,6 +361,7 @@ GitHub 上 Star 数最高、最具话题度的单一用途 Skill。它们大多�
 | [**karanb192/awesome-claude-skills**](https://github.com/karanb192/awesome-claude-skills) | ![GitHub Repo stars](https://badgen.net/github/stars/karanb192/awesome-claude-skills) | 50+ 经验证的 Claude Skills 精选，覆盖 TDD、调试、Git 工作流、文档处理等，社区驱动持续维护。 |
 | [**hesreallyhim/awesome-claude-code**](https://github.com/hesreallyhim/awesome-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/hesreallyhim/awesome-claude-code) | 覆盖 Claude Code 全生态的头部 Awesome 列表：Skills、Hooks、Slash Commands、Agent 编排、插件与应用，附详尽资源索引，社区认可度极高。 |
 | [**heilcheng/awesome-agent-skills**](https://github.com/heilcheng/awesome-agent-skills) | ![GitHub Repo stars](https://badgen.net/github/stars/heilcheng/awesome-agent-skills) | 聚合 Agent Skills 教程、指南与目录（Directories）的精选集，适合系统性了解各家 skills 资源入口。 |
+| [**github/awesome-copilot**](https://github.com/github/awesome-copilot) | ![GitHub Repo stars](https://badgen.net/github/stars/github/awesome-copilot) | GitHub 官方维护，汇集社区贡献的 instructions、agents、skills 与配置，帮助用好 GitHub Copilot（含大量遵循开放标准的 Agent Skills）。 |
 
 ---
 
