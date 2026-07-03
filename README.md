@@ -129,6 +129,7 @@ Anthropic 官方发布的关于 Agent Skills 的核心指南，是理解技术�
 #### 🌟 官方推荐
 | 项目 | ⭐ Stars | 简介 |
 | :--- | ---: | :--- |
+| [**anthropics/claude-plugins-official**](https://github.com/anthropics/claude-plugins-official) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-plugins-official) | Anthropic 官方运营的高质量 Claude Code 插件目录，集中发现与安装官方精选插件（含 Skills 打包分发）。 |
 | [**anthropics/skills**](https://github.com/anthropics/skills) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/skills) | Anthropic 官方维护的 Agent Skills 公共仓库，理解标准实现的最佳参考，含多个通用 Skill 范例。 |
 | [**anthropics/claude-cookbooks**](https://github.com/anthropics/claude-cookbooks/tree/main/skills) | ![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-cookbooks) | 官方 Cookbook 的 Skills 目录，提供可直接运行的端到端示例与教程，适合上手实践。 |
 
