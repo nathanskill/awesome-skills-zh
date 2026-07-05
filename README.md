@@ -388,4 +388,4 @@ GitHub 上 Star 数最高、最具话题度的单一用途 Skill。它们大多�
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yzfly/awesome-claude-skills-zh&type=Date)](https://star-history.com/#yzfly/awesome-claude-skills-zh&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yzfly/awesome-skills-zh&type=Date)](https://star-history.com/#yzfly/awesome-skills-zh&Date)
